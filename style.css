@@ -1,0 +1,51 @@
+body{
+
+    background-size: cover;
+}
+
+.heading{
+
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: cursive;
+}
+
+.note{
+
+    font-size: 15px;
+    color: black;
+    font-family: cursive;
+}
+
+#song{
+
+    font-size: 25px;
+    margin: 15px;
+    font-family: cursive;
+}
+
+canvas{
+
+    border: 5px solid rgb(245, 157, 172);
+    border-radius: 30px;
+}
+
+.copy_right_footer{
+
+    position: fixed;
+    color: rgb(236, 149, 185);
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+    font-family: cursive;
+}
+
+.play_button{
+
+    font-family: cursive;
+    width: 130px;
+    font-size: 20px;
+}
